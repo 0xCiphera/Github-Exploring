@@ -1,5 +1,5 @@
-	int sum;
-
+	int a, b, sum;
+	sum = a + b
 console.log("Here comes trouble");
 console.log("Hello There");
 console.log("Hey You");
